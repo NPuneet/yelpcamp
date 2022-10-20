@@ -13,7 +13,7 @@
 ---
 ### Adding new campground
 ##### Feilds can't be left empty.
-![Image link](https://github.com/NPuneet/yelpcamp/blob/main/Website%20sample%20pictures/yelpcamp%203.png)
+![Image link](https://github.com/NPuneet/yelpcamp/blob/main/Website%20sample%20pictures/yelpcamp%204.png)
 
 ---
 ### Reviewing a campground
